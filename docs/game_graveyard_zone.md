@@ -1,6 +1,12 @@
-# game_graveyard_zone
+# graveyard_zone
 
 [<-Back-to:World](database-world.md)
+
+Contains information about zones connected to world's graveyards.
+
+This table is used to set what factions a given graveyard will accept, and also to specify the nearest graveyard to a given zone.
+
+For a list of all existing graveyard zones and their respective IDs, check out WorldSafeLocs.dbc
 
 | Field           | Type         | Attributes | Key | Null | Default | Extra | Comment |
 |-----------------|--------------|------------|-----|------|---------|-------|---------|
